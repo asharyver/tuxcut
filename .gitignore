@@ -106,3 +106,9 @@ ENV/
 # custom
 system_req.md
 core_old.py
+build.sh
+build/
+dist/
+pkg/
+Final/
+tuxcut_6.0beta2_amd64.deb
