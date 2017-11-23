@@ -111,4 +111,7 @@ build/
 dist/
 pkg/
 Final/
-tuxcut_6.0beta2_amd64.deb
+backup/
+*.deb
+*.rpm
+*.tar.xz
